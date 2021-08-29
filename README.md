@@ -23,4 +23,4 @@
 
 ---
 
-<img align="left" alt="einaraglen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=einaraglen&show_icons=true&hide_border=false" />
+<img align="left" alt="einaraglen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=einaraglen&show_icons=true&theme=dark" />
